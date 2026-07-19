@@ -300,4 +300,12 @@ transform:scale(1.1);
 
 .top-bar marquee {
     white-space: nowrap;
+}.btn.save{
+    background:#ffffff;
+    color:#071426;
+}
+
+.btn.docs{
+    background:#D4AF37;
+    color:#071426;
 }
