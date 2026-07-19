@@ -285,4 +285,19 @@ transition:.3s;
 
 transform:scale(1.1);
 
+}/* Top Notice Bar */
+.top-bar {
+    background: #d4af37;
+    color: #071426;
+    padding: 10px 0;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.top-bar marquee {
+    white-space: nowrap;
 }
